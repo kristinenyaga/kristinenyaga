@@ -1,6 +1,6 @@
 <h1 align="center">hey 👋, I'm kris</h1>
 <h3 align="center">Fullstack Dev</h3>
-<img align="right" width=400 src="https://img.freepik.com/free-vector/code-review-concept-illustration_114360-4208.jpg?w=826&t=st=1705473752~exp=1705474352~hmac=1810cfca45440938ebcef5607ad4733621d79770fce19a1dea7935c7bd099404">
+<img align="right" width=250 src="https://img.freepik.com/free-vector/code-review-concept-illustration_114360-4208.jpg?w=826&t=st=1705473752~exp=1705474352~hmac=1810cfca45440938ebcef5607ad4733621d79770fce19a1dea7935c7bd099404">
 
 - 💬 Ask me about **react,django, rails**
 
