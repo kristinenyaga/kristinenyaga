@@ -1,8 +1,9 @@
-<h1 align="center">hey 👋, I'm kris</h1>
-<h3 align="center">Fullstack Dev</h3>
+![MasterHead](https://i.pinimg.com/564x/5e/d5/8c/5ed58cbf79e583bfbab7016077008e28.jpg)
+<h1 align="center">Hey 👋, I'm kris</h1>
+<h2 align="center">Fullstack Developer </h2>
 <img align="right" width=250 src="https://img.freepik.com/free-vector/code-review-concept-illustration_114360-4208.jpg?w=826&t=st=1705473752~exp=1705474352~hmac=1810cfca45440938ebcef5607ad4733621d79770fce19a1dea7935c7bd099404">
 
-- 💬 Ask me about **react,django, rails**
+- 💬 Ask me about **React, Django, Rails**
 
 - 📫 How to reach me **nyagakristine@gmail.com**
 
