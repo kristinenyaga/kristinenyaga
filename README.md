@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/564x/52/25/22/522522b4ef8de61225ad8bb0df48451b.jpg)
+
 <h1 align="center">Hey 👋, I'm kris</h1>
 <h2 align="center">Fullstack Developer </h2>
 <img align="right" width=250 src="https://img.freepik.com/free-vector/code-review-concept-illustration_114360-4208.jpg?w=826&t=st=1705473752~exp=1705474352~hmac=1810cfca45440938ebcef5607ad4733621d79770fce19a1dea7935c7bd099404">
